@@ -1,0 +1,22 @@
+[
+{
+"name" : "David",
+"country" : "Bangladesh",
+"course" : "Bachelor of Science"
+},
+{
+"name" : "Parvez",
+"country" : "Usa",
+"course" : "Bachelor of Arts"
+},
+{
+"name" : "Sadia",
+"country" : "India",
+"course" : "Masters of Accounting"
+},
+{
+"name" : "Asha",
+"country" : "Pakistan",
+"course" : "Masters of CSE"
+}
+]

@@ -1,0 +1,38 @@
+[
+{
+ "id": "1",
+    "name": "Master's of Science Engineering",
+    "price": 1445,
+    "img": "https://www1.chester.ac.uk/sites/default/files/styles/hero_mobile/public/formula-student.jpg?itok=RW5sP3os"
+},
+{
+ "id": "2",
+    "name": "Master's of Business Administration",
+    "price": 1445,
+    "img": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76de9f6d-5ae0-4e63-beeb-b2f221fb298e.jpg?fit=scale-down&source=next&width=700"
+},
+{
+ "id": "3",
+    "name": "Bachelor of Science & Engineering",
+    "price": 1445,
+    "img": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_363_15826232770021684.png"
+},
+{
+ "id": "4",
+    "name": "MSc in Advanced Computer Science",
+    "price": 1445,
+    "img": "https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/03/Top-Reasons.jpg"
+},
+{
+ "id": "5",
+    "name": "Bachelor of Business Administration",
+    "price": 1445,
+    "img": "https://humanities-web.s3.us-east-2.amazonaws.com/college-prod/s3fs-public/styles/social/public/images/2019-08/20190615_mainconvo_jl_6724.jpg?h=23aafe26&itok=Vab2Y-Bj"
+},
+{
+ "id": "6",
+    "name": "Bachelor of Art's & Science of Law",
+    "price": 1445,
+    "img": "https://imageio.forbes.com/specials-images/imageserve/887132594/Diverse-Group-of-University-Students-Walking-on-Campus/960x0.jpg?format=jpg&width=960"
+}
+]
